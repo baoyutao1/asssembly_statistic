@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 ## contributor: https://github.com/zhangrengang
 ## usage: python2 asssembly_statistic.py species.fa > statistic.txt
 
